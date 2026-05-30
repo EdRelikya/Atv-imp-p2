@@ -115,3 +115,6 @@ public class QuestoesProva2 {
     }
     
 }
+
+         // A questão 5 Eu não conseguir pensar em algo diferente das que eu fiz na questão anterior
+         // E meu tempo de prova no papel ja estava mais de 2 horas
